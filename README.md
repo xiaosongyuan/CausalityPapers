@@ -13,6 +13,8 @@ A list of causal extraction and causal inference papers
 
 **基于文本的因果关系抽取与推理.** 赵森栋(博士论文), 2018. [[paper]](https://kns.cnki.net/KCMS/detail/detail.aspx?filename=1019645681.nh&dbname=CDFDTEMP)
 
+**A Survey on Extraction of Causal Relations from Natural Language Text.** Jie Yang, Soyeon Caren Han, Josiah Poon, 2021. **arXiv:2101.06426.** [[paper]](https://arxiv.org/pdf/2101.06426.pdf)
+
 
 ## CI Reviews
 
